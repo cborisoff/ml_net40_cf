@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Models.Main.News>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.title</li>
+    }
+</ul>

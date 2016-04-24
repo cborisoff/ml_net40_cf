@@ -1,0 +1,10 @@
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\Models.dll.config
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\Models.dll
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\Models.pdb
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\EntityFramework.dll
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\EntityFramework.xml
+D:\Projects\C#\ML_NET40_CF\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\ML_NET40_CF\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Projects\C#\ML_NET40_CF\Models\obj\Debug\Models.dll
+D:\Projects\C#\ML_NET40_CF\Models\obj\Debug\Models.pdb
