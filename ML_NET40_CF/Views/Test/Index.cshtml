@@ -8,6 +8,9 @@
 <ul>
     @foreach (var item in Model)
     {
-        <li>@item.title</li>
+        <li>
+            <h4> @item.title</h4>
+            <p>@Html.Raw(item.content)</p>
+        </li>
     }
 </ul>
